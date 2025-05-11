@@ -74,5 +74,3 @@ Obrigado!
 2. **Links**: Corrigi o link do repositório original e o link da aplicação local.
 3. **Formatação**: Organizei os cabeçalhos e a estrutura para facilitar a leitura.
 4. **Removed redundant phrases**: Melhorei a clareza do texto.
-
-Sinta-se à vontade para usar este texto revisado em seu README! Se precisar de mais alterações ou informações, estou à disposição.
